@@ -50,3 +50,589 @@
 10/16/2025 12:49:00 PM: INFO: Get LATEST chromedriver version for google-chrome
 10/16/2025 12:49:00 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
 10/16/2025 12:49:03 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:08:52 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:08:56 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:08:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:08:57 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:08:59 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:09:01 PM: INFO: **** Page title test passed ****
+10/16/2025 03:09:01 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:09:02 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:09:04 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:09:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:09:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:09:08 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:09:13 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:09:13 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:09:13 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:09:14 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:09:14 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:09:14 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:09:16 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:09:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:09:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:09:22 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:09:24 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:12:27 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:12:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:12:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:12:31 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:12:33 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:12:34 PM: INFO: **** Page title test passed ****
+10/16/2025 03:12:34 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:12:34 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:12:36 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:12:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:12:40 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:12:40 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:12:43 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:12:43 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:12:44 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:12:44 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:12:44 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:12:45 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:12:47 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:12:52 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:12:52 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:12:52 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:12:54 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:13:26 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:13:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:13:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:13:33 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:13:36 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:13:39 PM: INFO: **** Page title test passed ****
+10/16/2025 03:13:39 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:13:40 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:13:43 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:13:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:13:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:13:54 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:14:01 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:14:01 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:14:02 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:14:03 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:14:03 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:14:04 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:14:07 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:14:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:14:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:14:16 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:14:19 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:27:26 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:27:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:27:34 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:27:34 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:27:38 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:27:41 PM: INFO: **** Page title test passed ****
+10/16/2025 03:27:41 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:27:43 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:27:47 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:27:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:27:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:27:58 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:28:07 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:28:07 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:28:08 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:28:09 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:28:09 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:28:10 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:28:13 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:28:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:28:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:28:23 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:28:26 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:34:38 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:34:43 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:34:43 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:34:44 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:34:47 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:34:49 PM: INFO: **** Page title test passed ****
+10/16/2025 03:34:49 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:34:50 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:34:52 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:34:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:34:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:34:58 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:35:04 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:35:04 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:35:04 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:35:05 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:35:05 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:35:06 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:35:08 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:35:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:35:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:35:17 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:35:20 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:37:18 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:37:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:37:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:37:25 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:37:27 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:37:29 PM: INFO: **** Page title test passed ****
+10/16/2025 03:37:29 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:37:30 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:37:32 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:37:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:37:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:37:38 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:37:43 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:37:43 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:37:43 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:37:45 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:37:45 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:37:45 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:37:48 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:37:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:37:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:37:55 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:37:57 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:40:04 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:40:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:40:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:40:13 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:40:16 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:40:18 PM: INFO: **** Page title test passed ****
+10/16/2025 03:40:18 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:40:20 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:40:23 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:40:29 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:40:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:40:30 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:40:36 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:40:36 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:40:37 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:40:38 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:40:38 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:40:39 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:40:41 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:40:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:40:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:40:49 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:40:51 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 03:44:05 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:44:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:44:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:44:12 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:44:15 PM: INFO: **** Starting test_page_title ****
+10/16/2025 03:44:18 PM: INFO: **** Page title test passed ****
+10/16/2025 03:44:18 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 03:44:20 PM: INFO: **** Login positive test passed ****
+10/16/2025 03:44:23 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:44:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:44:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:44:30 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:44:37 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:44:37 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 03:44:37 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 03:44:39 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 03:44:39 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 03:44:39 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 03:44:43 PM: INFO: ====== WebDriver manager ======
+10/16/2025 03:44:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:44:52 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 03:44:53 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 03:44:56 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:09:39 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:09:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:09:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:09:48 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:09:52 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:09:55 PM: INFO: **** Page title test passed ****
+10/16/2025 04:09:56 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:09:58 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:10:01 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:10:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:10:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:10:14 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:10:23 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:10:23 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:10:25 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:10:27 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:10:27 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:10:28 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:10:31 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:10:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:10:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:10:42 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:10:46 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:13:23 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:13:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:13:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:13:33 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:13:37 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:13:40 PM: INFO: **** Page title test passed ****
+10/16/2025 04:13:40 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:13:43 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:13:47 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:13:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:13:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:13:58 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:14:07 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:14:07 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:14:08 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:14:09 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:14:09 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:14:10 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:14:14 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:14:25 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:14:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:14:27 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:14:31 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:18:22 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:18:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:18:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:18:31 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:18:36 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:18:39 PM: INFO: **** Page title test passed ****
+10/16/2025 04:18:39 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:18:40 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:18:44 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:18:55 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:18:55 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:18:56 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:19:06 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:19:06 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:19:07 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:19:09 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:19:09 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:19:10 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:19:13 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:19:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:19:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:19:23 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:19:27 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:23:01 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:23:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:23:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:23:12 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:23:16 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:23:19 PM: INFO: **** Page title test passed ****
+10/16/2025 04:23:19 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:23:21 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:23:25 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:23:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:23:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:23:39 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:23:47 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:23:47 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:23:48 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:23:50 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:23:50 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:23:52 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:23:56 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:24:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:24:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:24:07 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:24:57 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:25:49 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:25:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:25:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:25:58 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:26:01 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:26:04 PM: INFO: **** Page title test passed ****
+10/16/2025 04:26:04 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:26:06 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:26:10 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:26:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:26:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:26:18 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:26:24 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:26:24 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:26:25 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:26:26 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:26:26 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:26:28 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:26:30 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:26:36 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:26:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:26:37 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:26:40 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:27:28 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:27:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:27:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:27:33 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:27:35 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:27:37 PM: INFO: **** Page title test passed ****
+10/16/2025 04:27:37 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:27:38 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:27:40 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:27:46 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:27:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:27:47 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:27:53 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:27:53 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:27:54 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:27:55 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:27:55 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:27:55 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:27:58 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:28:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:28:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/16/2025 04:28:07 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/16/2025 04:28:10 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:33:14 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:33:19 PM: INFO: Get LATEST edgedriver version for Edge 141.0.3537
+10/16/2025 04:33:20 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:33:25 PM: INFO: Get LATEST edgedriver version for Edge 141.0.3537
+10/16/2025 04:33:25 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:33:30 PM: INFO: Get LATEST edgedriver version for Edge 141.0.3537
+10/16/2025 04:41:54 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:41:56 PM: INFO: **** Page title test passed ****
+10/16/2025 04:41:56 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:41:57 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:42:05 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:42:05 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:42:06 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:42:07 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:42:07 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:42:07 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:42:13 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:42:31 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/16/2025 04:44:56 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:45:03 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:04 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:04 PM: INFO: There is no [win64] geckodriver "v0.36.0" for browser firefox "144.0" in cache
+10/16/2025 04:45:04 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:05 PM: INFO: Getting latest mozilla release info for v0.36.0
+10/16/2025 04:45:06 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+10/16/2025 04:45:08 PM: INFO: Driver downloading response is 200
+10/16/2025 04:45:08 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:08 PM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0]
+10/16/2025 04:45:20 PM: INFO: **** Starting test_page_title ****
+10/16/2025 04:45:22 PM: INFO: **** Page title test passed ****
+10/16/2025 04:45:22 PM: INFO: **** Starting test_login_positive ****
+10/16/2025 04:45:23 PM: INFO: **** Login positive test passed ****
+10/16/2025 04:45:29 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:45:35 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:36 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:36 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/16/2025 04:45:45 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:45:45 PM: INFO: **** Starting test_add_item_to_cart ****
+10/16/2025 04:45:45 PM: INFO: **** Add item to cart test passed ****
+10/16/2025 04:45:46 PM: INFO: **** Logged in for inventory tests ****
+10/16/2025 04:45:46 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/16/2025 04:45:46 PM: INFO: **** Successfully selected from dropdown ****
+10/16/2025 04:45:50 PM: INFO: ====== WebDriver manager ======
+10/16/2025 04:45:55 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:56 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/16/2025 04:45:56 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/16/2025 04:46:02 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/16/2025 04:46:12 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/17/2025 12:52:52 PM: INFO: ====== WebDriver manager ======
+10/17/2025 12:52:56 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:52:56 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:52:57 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:52:57 PM: INFO: Getting latest mozilla release info for v0.36.0
+10/17/2025 12:52:57 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+10/17/2025 12:52:58 PM: INFO: Driver downloading response is 200
+10/17/2025 12:52:58 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:52:58 PM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0]
+10/17/2025 12:53:04 PM: INFO: **** Starting test_page_title ****
+10/17/2025 12:53:05 PM: INFO: **** Page title test passed ****
+10/17/2025 12:53:05 PM: INFO: **** Starting test_login_positive ****
+10/17/2025 12:53:07 PM: INFO: **** Login positive test passed ****
+10/17/2025 12:53:11 PM: INFO: ====== WebDriver manager ======
+10/17/2025 12:53:17 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:53:18 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:53:18 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/17/2025 12:53:26 PM: INFO: **** Logged in for inventory tests ****
+10/17/2025 12:53:26 PM: INFO: **** Starting test_add_item_to_cart ****
+10/17/2025 12:53:26 PM: INFO: **** Add item to cart test passed ****
+10/17/2025 12:53:27 PM: INFO: **** Logged in for inventory tests ****
+10/17/2025 12:53:27 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/17/2025 12:53:28 PM: INFO: **** Successfully selected from dropdown ****
+10/17/2025 12:53:33 PM: INFO: ====== WebDriver manager ======
+10/17/2025 12:53:38 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:53:39 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/17/2025 12:53:39 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/17/2025 12:53:46 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/17/2025 12:54:03 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/19/2025 12:10:44 AM: INFO: ====== WebDriver manager ======
+10/19/2025 12:10:46 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:10:47 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:10:47 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:10:48 AM: INFO: WebDriver version 141.0.7390.78 selected
+10/19/2025 12:10:48 AM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/19/2025 12:10:48 AM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/19/2025 12:10:49 AM: INFO: Driver downloading response is 200
+10/19/2025 12:10:50 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:10:53 AM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78]
+10/19/2025 12:10:56 AM: INFO: **** Starting test_page_title ****
+10/19/2025 12:10:57 AM: INFO: **** Page title test passed ****
+10/19/2025 12:10:57 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 12:10:59 AM: INFO: **** Login positive test passed ****
+10/19/2025 12:11:01 AM: INFO: ====== WebDriver manager ======
+10/19/2025 12:11:03 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:11:03 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:11:03 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 12:11:09 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 12:11:09 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 12:11:10 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 12:11:11 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 12:11:11 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 12:11:11 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 12:11:14 AM: INFO: ====== WebDriver manager ======
+10/19/2025 12:11:16 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:11:16 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:11:17 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 12:11:19 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 12:13:51 AM: INFO: ====== WebDriver manager ======
+10/19/2025 12:13:52 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:13:53 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:13:53 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 12:13:55 AM: INFO: **** Starting test_page_title ****
+10/19/2025 12:13:56 AM: INFO: **** Page title test passed ****
+10/19/2025 12:13:56 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 12:13:57 AM: INFO: **** Login positive test passed ****
+10/19/2025 12:13:59 AM: INFO: ====== WebDriver manager ======
+10/19/2025 12:14:01 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:14:01 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:14:01 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 12:14:06 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 12:14:06 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 12:14:06 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 12:14:07 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 12:14:07 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 12:14:08 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 12:14:10 AM: INFO: ====== WebDriver manager ======
+10/19/2025 12:14:11 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:14:11 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 12:14:12 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 12:14:13 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:28:36 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:28:38 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:28:38 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:28:39 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 11:28:42 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:28:43 AM: INFO: **** Page title test passed ****
+10/19/2025 11:28:43 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:28:46 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:28:49 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:28:51 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:28:52 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:28:52 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 11:29:00 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:29:00 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:29:02 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:29:03 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:29:03 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:29:04 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:29:08 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:29:10 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:29:11 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:29:11 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 11:29:15 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:30:50 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:30:51 AM: INFO: **** Page title test passed ****
+10/19/2025 11:30:51 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:30:52 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:30:58 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:30:58 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:30:58 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:30:59 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:30:59 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:30:59 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:31:03 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:31:14 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/19/2025 11:31:59 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:32:01 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:32:02 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:32:03 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:32:03 AM: INFO: Getting latest mozilla release info for v0.36.0
+10/19/2025 11:32:04 AM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+10/19/2025 11:32:06 AM: INFO: Driver downloading response is 200
+10/19/2025 11:32:07 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:32:07 AM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0]
+10/19/2025 11:32:21 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:32:23 AM: INFO: **** Page title test passed ****
+10/19/2025 11:32:23 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:32:27 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:32:36 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:32:39 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:32:41 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:32:42 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/19/2025 11:32:55 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:32:55 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:32:56 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:32:57 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:32:57 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:33:00 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:33:06 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:33:08 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:33:09 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:33:09 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/19/2025 11:33:16 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:33:31 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/19/2025 11:33:50 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:33:51 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:33:51 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:33:51 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 11:33:53 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:33:54 AM: INFO: **** Page title test passed ****
+10/19/2025 11:33:54 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:33:55 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:33:57 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:33:58 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:33:58 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:33:58 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 11:34:02 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:34:02 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:34:03 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:34:03 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:34:03 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:34:04 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:34:06 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:34:07 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:34:08 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/19/2025 11:34:08 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/19/2025 11:34:09 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:36:15 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:36:17 AM: INFO: **** Page title test passed ****
+10/19/2025 11:36:17 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:36:19 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:36:28 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:36:28 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:36:29 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:36:31 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:36:31 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:36:31 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:36:37 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:36:53 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/19/2025 11:37:44 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:37:46 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:37:47 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:37:48 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/19/2025 11:37:54 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:37:56 AM: INFO: **** Page title test passed ****
+10/19/2025 11:37:56 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:37:59 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:38:07 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:38:09 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:38:10 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:38:10 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/19/2025 11:38:22 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:38:22 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:38:23 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:38:26 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:38:26 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:38:28 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:38:36 AM: INFO: ====== WebDriver manager ======
+10/19/2025 11:38:38 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:38:39 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/19/2025 11:38:40 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/19/2025 11:38:50 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:39:12 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/19/2025 11:40:36 AM: INFO: **** Starting test_page_title ****
+10/19/2025 11:40:37 AM: INFO: **** Page title test passed ****
+10/19/2025 11:40:37 AM: INFO: **** Starting test_login_positive ****
+10/19/2025 11:40:38 AM: INFO: **** Login positive test passed ****
+10/19/2025 11:40:45 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:40:45 AM: INFO: **** Starting test_add_item_to_cart ****
+10/19/2025 11:40:45 AM: INFO: **** Add item to cart test passed ****
+10/19/2025 11:40:46 AM: INFO: **** Logged in for inventory tests ****
+10/19/2025 11:40:46 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/19/2025 11:40:47 AM: INFO: **** Successfully selected from dropdown ****
+10/19/2025 11:40:50 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/19/2025 11:41:01 AM: INFO: **** End-to-End Checkout Test Passed ****

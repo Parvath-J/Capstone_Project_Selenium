@@ -14,9 +14,10 @@ class CheckoutStepOnePage(BasePage):
         super().__init__(driver)
 
     def enter_checkout_info(self, first_name, last_name, postal_code):
-        self.do_send_keys(self.FIRST_NAME_INPUT, first_name)
-        self.do_send_keys(self.LAST_NAME_INPUT, last_name)
-        self.do_send_keys(self.POSTAL_CODE_INPUT, postal_code)
+        # USE THE NEW ROBUST METHOD
+        self.do_robust_send_keys(self.FIRST_NAME_INPUT, first_name)
+        self.do_robust_send_keys(self.LAST_NAME_INPUT, last_name)
+        self.do_robust_send_keys(self.POSTAL_CODE_INPUT, postal_code)
 
     def click_continue(self):
-        self.do_click(self.CONTINUE_BUTTON)
+        self.do_click(self.CONTINUE_BUTTON) # A standard click should be fine here

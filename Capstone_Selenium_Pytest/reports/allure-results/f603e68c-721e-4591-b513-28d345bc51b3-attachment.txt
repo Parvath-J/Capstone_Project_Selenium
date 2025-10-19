@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_002_inventory_and_cart.py:25 **** Logged in for inventory tests ****
+[32mINFO    [0m root:test_002_inventory_and_cart.py:43 **** Starting test_sort_products (Dropdown) ****
+[32mINFO    [0m root:test_002_inventory_and_cart.py:48 **** Successfully selected from dropdown ****

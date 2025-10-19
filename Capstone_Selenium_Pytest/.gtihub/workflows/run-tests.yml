@@ -1,0 +1,63 @@
+# Name of your workflow
+name: Add project files and GitHub Actions workflow 1
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push events for the "main" branch
+  push:
+    branches: [ "main" ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This job is named "test"
+  test:
+    # The type of virtual machine to run the job on (Linux)
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Step 1: Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Sets up a Python environment for your tests
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Use a Python version you know works
+
+      # Step 3: Install necessary system packages for browsers (important on Linux)
+      - name: Install system dependencies for browsers
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip xvfb # xvfb allows running browsers headless
+          # Add dependencies needed for Chrome if you plan to run it
+          sudo apt-get install -y google-chrome-stable
+          # Add dependencies for Firefox if needed
+          # sudo apt-get install -y firefox
+
+      # Step 4: Installs your project's Python dependencies
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r Capstone_Selenium_Pytest/requirements.txt # Path relative to repo root
+
+      # Step 5: Run the Pytest tests using Chrome in headless mode
+      - name: Run Pytest with Chrome (headless)
+        run: |
+          cd Capstone_Selenium_Pytest # Navigate into the test project folder
+          # Run tests using xvfb to handle headless browser display
+          xvfb-run pytest -v --browser chrome --alluredir=allure-results
+
+      # Step 6: Uploads the Allure test results as an artifact
+      - name: Upload Allure results
+        # Use 'always()' so artifacts upload even if tests fail
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          # Path relative to repo root
+          path: Capstone_Selenium_Pytest/allure-results
+          retention-days: 7

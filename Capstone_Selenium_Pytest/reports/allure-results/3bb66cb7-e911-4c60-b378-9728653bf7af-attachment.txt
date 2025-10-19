@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_001_login.py:29 **** Starting test_login_positive ****
+[32mINFO    [0m root:test_001_login.py:41 **** Login positive test passed ****

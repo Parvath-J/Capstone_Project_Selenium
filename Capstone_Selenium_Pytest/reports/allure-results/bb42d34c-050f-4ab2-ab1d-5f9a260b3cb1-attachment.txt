@@ -1,0 +1,7 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_002_inventory_and_cart.py:25 **** Logged in for inventory tests ****
+[32mINFO    [0m root:test_002_inventory_and_cart.py:29 **** Starting test_add_item_to_cart ****
+[32mINFO    [0m root:test_002_inventory_and_cart.py:37 **** Add item to cart test passed ****

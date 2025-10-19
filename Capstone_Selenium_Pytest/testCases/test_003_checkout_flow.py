@@ -1,5 +1,6 @@
 # testCases/test_003_checkout_flow.py
 import pytest
+import time  # <--- IMPORT TIME
 from pageObjects.LoginPage import LoginPage
 from pageObjects.InventoryPage import InventoryPage
 from pageObjects.CartPage import CartPage
@@ -40,6 +41,11 @@ class Test_003_Checkout:
         self.checkout_one = CheckoutStepOnePage(self.driver)
         self.checkout_one.enter_checkout_info("John", "Doe", "12345")
         self.checkout_one.click_continue()
+
+        # --- DEBUGGING STEP ---
+        # We will now pause for 10 seconds to see what page we are on
+        print(f"Current URL before failing: {self.driver.current_url}")
+        time.sleep(10)
 
         # 5. Finish checkout and assert
         self.checkout_two = CheckoutStepTwoPage(self.driver)
