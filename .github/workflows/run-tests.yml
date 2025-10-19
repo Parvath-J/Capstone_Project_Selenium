@@ -1,62 +1,53 @@
 # Name of your workflow
-name: Run Selenium Pytest Suite
+name: Run Selenium Pytest Suite (Edge on Windows)
 
 # Controls when the workflow will run
 on:
   push:
-    branches: [ "main" ]
-  workflow_dispatch:
+    branches: [ "main" ] # Triggers on push to main branch
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   test:
-    # --- CHANGE RUNNER TO WINDOWS ---
+    # Use a Windows virtual machine
     runs-on: windows-latest
 
     steps:
-      # Step 1: Checkout repository
+      # Step 1: Checkout repository code
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Set up Python
+      # Step 2: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.11' # Or your preferred Python version
 
       # Step 3: Install Python dependencies
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          # Assuming requirements.txt is at the root of the repo
-          # If it's inside Capstone_Selenium_Pytest, use:
-          # pip install -r Capstone_Selenium_Pytest/requirements.txt
-          pip install -r requirements.txt
-        # Use PowerShell default shell on Windows
+          # Path points inside the project subfolder
+          pip install -r Capstone_Selenium_Pytest/requirements.txt
+        # Use PowerShell, the default on Windows runners
         shell: pwsh
-
-      # --- REMOVED Linux apt-get step ---
-
-      # --- DEBUGGING STEP (Optional but helpful) ---
-      - name: List files in workspace
-        run: Get-ChildItem -Recurse
-        shell: pwsh # Use PowerShell command
 
       # Step 4: Run Pytest tests using Edge
       - name: Run Pytest with Edge
         run: |
-          # If your tests are inside a subfolder, navigate into it:
-          # cd Capstone_Selenium_Pytest
+          # Navigate into the project folder first
+          cd Capstone_Selenium_Pytest
           # Run pytest specifying edge
           pytest -v --browser edge --alluredir=allure-results
         shell: pwsh
 
-      # Step 5: Upload Allure results
+      # Step 5: Upload Allure results artifact
       - name: Upload Allure results
+        # Run this step even if previous steps fail
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: allure-results
-          # Adjust path if allure-results is created inside a subfolder:
-          # path: Capstone_Selenium_Pytest/allure-results
-          path: allure-results
-          retention-days: 7
+          name: allure-results # Name of the artifact
+          # Path relative to repo root, inside the project folder
+          path: Capstone_Selenium_Pytest/allure-results
+          retention-days: 7 # How long to keep the artifact
