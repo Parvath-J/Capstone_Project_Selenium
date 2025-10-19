@@ -3,59 +3,49 @@ name: Run Selenium Pytest Suite
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push events for the "main" branch
   push:
     branches: [ "main" ]
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This job is named "test"
   test:
-    # The type of virtual machine to run the job on (Linux)
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Step 1: Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Step 2: Sets up a Python environment for your tests
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # Use a Python version you know works
-
-      # Step 3: Install necessary system packages for browsers (important on Linux)
+          python-version: '3.11'
       - name: Install system dependencies for browsers
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget unzip xvfb # xvfb allows running browsers headless
+          sudo apt-get install -y wget unzip xvfb
           sudo apt-get install -y google-chrome-stable
 
-      # Step 4: Installs your project's Python dependencies
+      # --- THIS STEP IS MODIFIED ---
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt # Assuming requirements.txt is at the root
+          # Adjust this path if requirements.txt is in a different folder
+          pip install -r Capstone_Selenium_Pytest/requirements.txt
 
-      # --- DEBUGGING STEP: List files to confirm structure ---
-      - name: List files in workspace
-        run: ls -la
+      - name: List files in workspace # Keep for debugging
+        run: ls -laR # Use -R to list recursively
 
-      # Step 5: Run the Pytest tests using Chrome's headless mode
+      # --- THIS STEP IS MODIFIED (Added cd) ---
       - name: Run Pytest with Chrome (headless)
         run: |
-          # Ensure pytest runs from the root where it can find testCases/conftest.py
+          # Navigate into the project folder first
+          cd Capstone_Selenium_Pytest
           pytest -v --browser chrome --alluredir=allure-results
 
-      # Step 6: Uploads the Allure test results as an artifact
+      # --- THIS STEP IS MODIFIED (Adjusted path) ---
       - name: Upload Allure results
-        if: always() # Use 'always()' so artifacts upload even if tests fail
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: allure-results
-          path: allure-results # Assuming allure-results is created at the root
+          # Path relative to repo root, inside the project folder
+          path: Capstone_Selenium_Pytest/allure-results
           retention-days: 7
