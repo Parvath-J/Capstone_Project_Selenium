@@ -1,3 +1,4 @@
+# testCases/conftest.py
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
@@ -9,7 +10,6 @@ import allure
 from allure_commons.types import AttachmentType
 import os
 from datetime import datetime
-# from py.xml import html  # <--- REMOVE THIS LINE
 import base64
 
 # Command-line option to specify browser
@@ -23,24 +23,33 @@ def setup(request):
     browser_name = request.config.getoption("browser").lower()
 
     if browser_name == "chrome":
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        chrome_options = webdriver.ChromeOptions()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--window-size=1920,1080")
+        # --- THIS LINE IS MODIFIED ---
+        # Pass the options when creating the driver instance
+        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
     elif browser_name == "firefox":
-        driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+        firefox_options = webdriver.FirefoxOptions()
+        firefox_options.add_argument("--headless")
+        driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()), options=firefox_options)
     elif browser_name == "edge":
         edge_driver_path = "./drivers/msedgedriver.exe"
         service = EdgeService(executable_path=edge_driver_path)
-        driver = webdriver.Edge(service=service)
+        driver = webdriver.Edge(service=service) # Note: Headless Edge on Linux in Actions is complex
     else:
         raise pytest.UsageError("--browser option is invalid, choose from chrome/firefox/edge")
 
     driver.implicitly_wait(10)
-    #driver.maximize_window()
+    # driver.maximize_window() # Keep this commented out for headless
     request.cls.driver = driver
     yield
     driver.quit()
 
+# --- (Rest of the file remains the same) ---
 
-# --- MODIFIED HOOK ---
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
     pytest_html = item.config.pluginmanager.getplugin("html")
@@ -64,9 +73,8 @@ def pytest_runtest_makereport(item, call):
             # --- Embed Screenshot in HTML Report ---
             screenshot_png = driver.get_screenshot_as_png()
             encoded_image = base64.b64encode(screenshot_png).decode("utf-8")
-            # Create the img tag as a raw HTML string
             img_html = f'<img src="data:image/png;base64,{encoded_image}" style="width:60%;"/>'
-            extra.append(pytest_html.extras.html(img_html)) # Use the plugin's helper
+            extra.append(pytest_html.extras.html(img_html))
 
             # --- Attach screenshot to Allure report ---
             allure.attach(screenshot_png, name="screenshot_on_failure",
