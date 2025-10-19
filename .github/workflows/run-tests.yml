@@ -1,5 +1,5 @@
 # Name of your workflow
-name: Add project files and GitHub Actions workflow 1
+name: Run Selenium Pytest Suite
 
 # Controls when the workflow will run
 on:
@@ -33,32 +33,29 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y wget unzip xvfb # xvfb allows running browsers headless
-          # Add dependencies needed for Chrome if you plan to run it
           sudo apt-get install -y google-chrome-stable
-          # Add dependencies for Firefox if needed
-          # sudo apt-get install -y firefox
 
       # Step 4: Installs your project's Python dependencies
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r Capstone_Selenium_Pytest/requirements.txt # Path relative to repo root
+          pip install -r requirements.txt # Assuming requirements.txt is at the root
 
+      # --- DEBUGGING STEP: List files to confirm structure ---
+      - name: List files in workspace
+        run: ls -la
 
       # Step 5: Run the Pytest tests using Chrome's headless mode
       - name: Run Pytest with Chrome (headless)
         run: |
-          # No 'cd' needed if running from repo root & paths in workflow are correct
-          # Remove xvfb-run
+          # Ensure pytest runs from the root where it can find testCases/conftest.py
           pytest -v --browser chrome --alluredir=allure-results
 
       # Step 6: Uploads the Allure test results as an artifact
       - name: Upload Allure results
-        # Use 'always()' so artifacts upload even if tests fail
-        if: always()
+        if: always() # Use 'always()' so artifacts upload even if tests fail
         uses: actions/upload-artifact@v4
         with:
           name: allure-results
-          # Path relative to repo root
-          path: Capstone_Selenium_Pytest/allure-results
+          path: allure-results # Assuming allure-results is created at the root
           retention-days: 7
