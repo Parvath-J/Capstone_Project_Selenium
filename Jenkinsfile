@@ -1,90 +1,84 @@
 pipeline {
-    // Specify a Windows agent by label
-    agent { label 'windows' }
+    agent { label 'windows' } // Ensure this label matches your Windows agent
 
     stages {
         stage('Checkout') {
             steps {
-                // Clean the workspace before checkout
                 cleanWs()
-                // Checkout code from your Git repository
                 git branch: 'main', url: 'https://github.com/Parvath-J/Capstone_Project_Selenium.git'
             }
         }
 
         stage('Setup Environment') {
             steps {
-                // Use PowerShell for Windows commands
-                powershell '''
-                Write-Host "--- Setting up Python Virtual Environment ---"
+                // Use Windows Batch step
+                bat '''
+                echo --- Setting up Python Virtual Environment ---
 
-                # Navigate into the project folder
+                REM Navigate into the project folder
                 cd Capstone_Selenium_Pytest
 
-                # Create venv if it doesn't exist
-                if (-not (Test-Path -Path ".\venv" -PathType Container)) {
+                REM Create venv if it doesn't exist
+                IF NOT EXIST ".\\venv" (
+                    echo Creating virtual environment...
                     python -m venv venv
-                    if ($LASTEXITCODE -ne 0) {
-                        Write-Error "Failed to create virtual environment"
-                        exit 1
-                    }
-                } else {
-                    Write-Host "Virtual environment already exists."
-                }
+                    IF %ERRORLEVEL% NEQ 0 (
+                        echo Failed to create virtual environment
+                        exit /b 1
+                    )
+                ) ELSE (
+                    echo Virtual environment already exists.
+                )
 
-                Write-Host "--- Installing Dependencies ---"
-                # Activate venv and install requirements
-                .\venv\Scripts\Activate.ps1
+                echo --- Installing Dependencies ---
+                REM Activate venv using the .bat script and install requirements
+                CALL ".\\venv\\Scripts\\activate.bat"
                 pip install -r requirements.txt
-                if ($LASTEXITCODE -ne 0) {
-                    Write-Error "Failed to install dependencies"
-                    # Deactivate before exiting
-                    try { Deactivate-Venv } catch {}
-                    exit 1
-                }
+                IF %ERRORLEVEL% NEQ 0 (
+                    echo Failed to install dependencies
+                    CALL ".\\venv\\Scripts\\deactivate.bat"
+                    exit /b 1
+                )
 
-                Write-Host "--- Deactivating Environment (Setup Complete) ---"
-                # Deactivate venv after install for clean state in next stage
-                try { Deactivate-Venv } catch {}
+                echo --- Deactivating Environment (Setup Complete) ---
+                CALL ".\\venv\\Scripts\\deactivate.bat"
                 '''
             }
         }
 
         stage('Run Tests') {
             steps {
-                // Use PowerShell again
-                powershell '''
-                Write-Host "--- Activating Environment & Running Tests ---"
+                // Use Windows Batch step again
+                bat '''
+                echo --- Activating Environment & Running Tests ---
 
-                # Navigate into the project folder
+                REM Navigate into the project folder
                 cd Capstone_Selenium_Pytest
 
-                # Activate venv
-                .\venv\Scripts\Activate.ps1
+                REM Activate venv using the .bat script
+                CALL ".\\venv\\Scripts\\activate.bat"
 
-                Write-Host "--- Running Pytest with Edge ---"
-                # Run pytest, generate Allure results
+                echo --- Running Pytest with Edge ---
+                REM Run pytest, generate Allure results
                 pytest -v --browser edge --alluredir=allure-results
-                if ($LASTEXITCODE -ne 0) {
-                    Write-Warning "Pytest execution failed!"
-                    # Don't exit immediately, let Allure report generation run
-                }
+                SET PYTEST_EXIT_CODE=%ERRORLEVEL%
 
-                Write-Host "--- Deactivating Environment (Tests Complete) ---"
-                try { Deactivate-Venv } catch {}
+                echo --- Deactivating Environment (Tests Complete) ---
+                CALL ".\\venv\\Scripts\\deactivate.bat"
+
+                REM Exit with pytest's exit code to correctly set build status
+                exit /b %PYTEST_EXIT_CODE%
                 '''
             }
         }
     }
 
     post {
-        // This 'always' block runs regardless of build success or failure
         always {
-            // Generate and archive the Allure report
             allure includeProperties: false,
-                   jdk: '', // Use default JDK configured in Jenkins
-                   reportBuildPolicy: 'ALWAYS', // Generate report even for failures
-                   results: [[path: 'Capstone_Selenium_Pytest/allure-results']] // Path to results relative to workspace root
+                   jdk: '',
+                   reportBuildPolicy: 'ALWAYS',
+                   results: [[path: 'Capstone_Selenium_Pytest/allure-results']]
         }
         success {
             echo 'Build succeeded!'
