@@ -1,23 +1,36 @@
 pipeline {
-    agent { label 'windows' } // Ensure this label matches your Windows agent
+    // Specify a Windows agent by label (make sure this label exists in your Jenkins setup)
+    agent { label 'windows' }
+
+    // No Node.js tools needed
+    tools {}
+
+    environment {
+        // You can keep this or remove it, not strictly needed for Pytest/Selenium
+        // CI = 'true'
+    }
 
     stages {
-        stage('Checkout') {
+        stage('Checkout Code') {
             steps {
+                // Clean workspace before checkout
                 cleanWs()
-                git branch: 'main', url: 'https://github.com/Parvath-J/Capstone_Project_Selenium.git'
+                // Checkout your Selenium project repository
+                git(
+                    url: 'https://github.com/Parvath-J/Capstone_Project_Selenium.git',
+                    branch: 'main'
+                )
             }
         }
 
-        stage('Setup Environment') {
+        stage('Setup Python Environment') {
             steps {
-                // Use Windows Batch step
+                // Use Windows Batch commands
                 bat '''
-                echo --- Setting up Python Virtual Environment ---
-
-                REM Navigate into the project folder
+                echo --- Navigating into Project Directory ---
                 cd Capstone_Selenium_Pytest
 
+                echo --- Setting up Python Virtual Environment ---
                 REM Create venv if it doesn't exist
                 IF NOT EXIST ".\\venv" (
                     echo Creating virtual environment...
@@ -46,9 +59,11 @@ pipeline {
             }
         }
 
-        stage('Run Tests') {
+        // Removed 'Install Playwright Browser' stage
+
+        stage('Run Pytest Selenium Tests') {
             steps {
-                // Use Windows Batch step again
+                // Use Windows Batch commands again
                 bat '''
                 echo --- Activating Environment & Running Tests ---
 
@@ -59,32 +74,47 @@ pipeline {
                 CALL ".\\venv\\Scripts\\activate.bat"
 
                 echo --- Running Pytest with Edge ---
-                REM Run pytest, generate Allure results
+                REM Run pytest, specifying Edge browser and generating Allure results
                 pytest -v --browser edge --alluredir=allure-results
-                SET PYTEST_EXIT_CODE=%ERRORLEVEL%
+                SET PYTEST_EXIT_CODE=%ERRORLEVEL%  REM Capture exit code
 
                 echo --- Deactivating Environment (Tests Complete) ---
                 CALL ".\\venv\\Scripts\\deactivate.bat"
 
-                REM Exit with pytest's exit code to correctly set build status
+                REM Exit with pytest's exit code to set build status correctly
                 exit /b %PYTEST_EXIT_CODE%
                 '''
             }
         }
+
+        // Removed 'Allure Report' stage with manual generation and publishHTML
+        // The Allure Jenkins plugin handles this in the post section
     }
 
     post {
         always {
+            // Use the Allure Jenkins Plugin to generate and display the report
             allure includeProperties: false,
-                   jdk: '',
-                   reportBuildPolicy: 'ALWAYS',
-                   results: [[path: 'Capstone_Selenium_Pytest/allure-results']]
+                   jdk: '', // Use default JDK configured in Jenkins
+                   reportBuildPolicy: 'ALWAYS', // Generate report even for failed builds
+                   results: [[path: 'Capstone_Selenium_Pytest/allure-results']] // Path relative to workspace root
+
+            // Archive the raw Allure results for download (optional but good practice)
+            archiveArtifacts artifacts: 'Capstone_Selenium_Pytest/allure-results/**/*', allowEmptyArchive: true
+
+            // Clean workspace after job
+            cleanWs()
         }
         success {
             echo 'Build succeeded!'
         }
         failure {
             echo 'Build failed.'
+        }
+        // If tests fail but the build itself doesn't error out, pytest exit code > 0
+        // The 'unstable' status might be set by the pytest exit code handling
+        unstable {
+            echo 'Build unstable (tests likely failed).'
         }
     }
 }
