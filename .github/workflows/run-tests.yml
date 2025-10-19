@@ -44,12 +44,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r Capstone_Selenium_Pytest/requirements.txt # Path relative to repo root
 
-      # Step 5: Run the Pytest tests using Chrome in headless mode
+
+      # Step 5: Run the Pytest tests using Chrome's headless mode
       - name: Run Pytest with Chrome (headless)
         run: |
-          cd Capstone_Selenium_Pytest # Navigate into the test project folder
-          # Run tests using xvfb to handle headless browser display
-          xvfb-run pytest -v --browser chrome --alluredir=allure-results
+          # No 'cd' needed if running from repo root & paths in workflow are correct
+          # Remove xvfb-run
+          pytest -v --browser chrome --alluredir=allure-results
 
       # Step 6: Uploads the Allure test results as an artifact
       - name: Upload Allure results

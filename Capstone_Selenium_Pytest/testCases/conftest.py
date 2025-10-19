@@ -34,7 +34,7 @@ def setup(request):
         raise pytest.UsageError("--browser option is invalid, choose from chrome/firefox/edge")
 
     driver.implicitly_wait(10)
-    driver.maximize_window()
+    #driver.maximize_window()
     request.cls.driver = driver
     yield
     driver.quit()
