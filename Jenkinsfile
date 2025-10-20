@@ -14,7 +14,7 @@ pipeline {
                 dir('Capstone_Selenium_Pytest') {
                     bat '''
                     echo --- Setting up Python Virtual Environment ---
-                    python -m venv venv
+                    C:\\Users\\Ascendion\\AppData\\Local\\Programs\\Python\\Python313\\python.exe -m venv venv
                     call venv\\Scripts\\activate.bat
                     python -m pip install --upgrade pip
                     pip install -r requirements.txt
