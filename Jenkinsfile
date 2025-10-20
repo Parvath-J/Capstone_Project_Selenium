@@ -29,7 +29,7 @@ pipeline {
                     bat '''
                     echo --- Running Tests ---
                     call venv\\Scripts\\activate.bat
-                    pytest --alluredir=allure-results
+                    pytest --browser edge --alluredir=allure-results
                     '''
                 }
             }
