@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_001_login.py:83 **** Starting test_login_data_driven for standard_user ****
+[32mINFO    [0m root:test_001_login.py:93 Expecting PASS
+[1m[31mERROR   [0m root:test_001_login.py:100 **** Test FAILED for standard_user (Expected: Pass, but not on inventory page) ****

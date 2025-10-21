@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_001_login.py:52 **** Starting test_page_title ****
+[32mINFO    [0m root:test_001_login.py:58 **** Page title test passed ****

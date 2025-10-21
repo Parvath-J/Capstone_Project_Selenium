@@ -636,3 +636,1067 @@
 10/19/2025 11:40:47 AM: INFO: **** Successfully selected from dropdown ****
 10/19/2025 11:40:50 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
 10/19/2025 11:41:01 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/20/2025 06:09:02 PM: INFO: **** Starting test_page_title ****
+10/20/2025 06:09:05 PM: INFO: **** Page title test passed ****
+10/20/2025 06:09:05 PM: INFO: **** Starting test_login_positive ****
+10/20/2025 06:09:07 PM: INFO: **** Login positive test passed ****
+10/20/2025 06:09:14 PM: INFO: **** Logged in for inventory tests ****
+10/20/2025 06:09:14 PM: INFO: **** Starting test_add_item_to_cart ****
+10/20/2025 06:09:15 PM: INFO: **** Add item to cart test passed ****
+10/20/2025 06:09:15 PM: INFO: **** Logged in for inventory tests ****
+10/20/2025 06:09:15 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/20/2025 06:09:16 PM: INFO: **** Successfully selected from dropdown ****
+10/20/2025 06:09:20 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/20/2025 06:09:53 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:47:39 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:47:42 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:47:43 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:47:43 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:47:45 AM: INFO: WebDriver version 141.0.7390.78 selected
+10/21/2025 11:47:45 AM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 11:47:45 AM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 11:47:45 AM: INFO: Driver downloading response is 200
+10/21/2025 11:47:47 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:47:50 AM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78]
+10/21/2025 11:47:54 AM: INFO: **** Starting test_page_title ****
+10/21/2025 11:47:56 AM: INFO: **** Page title test passed ****
+10/21/2025 11:47:57 AM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:47:59 AM: INFO: **** Login positive test passed ****
+10/21/2025 11:48:02 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:48:05 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:48:05 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:48:06 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:48:11 AM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:48:11 AM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:48:12 AM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:48:13 AM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:48:13 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:48:14 AM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:48:17 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:48:20 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:48:21 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:48:21 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:48:24 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:49:44 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:49:47 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:49:47 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:49:48 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:49:50 AM: INFO: **** Starting test_page_title ****
+10/21/2025 11:49:53 AM: INFO: **** Page title test passed ****
+10/21/2025 11:49:53 AM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:49:55 AM: INFO: **** Login positive test passed ****
+10/21/2025 11:50:30 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:50:32 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:50:32 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:50:33 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:50:35 AM: INFO: **** Starting test_page_title ****
+10/21/2025 11:50:38 AM: INFO: **** Page title test passed ****
+10/21/2025 11:50:38 AM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:50:39 AM: INFO: **** Login positive test passed ****
+10/21/2025 11:55:49 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:55:52 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:55:52 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:55:53 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:55:55 AM: INFO: **** Starting test_page_title ****
+10/21/2025 11:55:59 AM: INFO: **** Page title test passed ****
+10/21/2025 11:55:59 AM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:56:00 AM: INFO: **** Login positive test passed ****
+10/21/2025 11:57:21 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:57:23 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:57:24 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:57:24 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:57:27 AM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:57:32 AM: INFO: **** Login positive test passed ****
+10/21/2025 11:59:00 AM: INFO: ====== WebDriver manager ======
+10/21/2025 11:59:02 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:59:03 AM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 11:59:04 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 11:59:06 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:59:50 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:00:14 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 12:00:39 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:00:42 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:00:44 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:00:45 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:00:45 PM: INFO: Getting latest mozilla release info for v0.36.0
+10/21/2025 12:00:46 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+10/21/2025 12:00:50 PM: INFO: Driver downloading response is 200
+10/21/2025 12:00:51 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:00:52 PM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0]
+10/21/2025 12:01:02 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:01:22 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 12:02:04 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:02:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:02:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:02:08 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:02:11 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:02:13 PM: INFO: **** Page title test passed ****
+10/21/2025 12:02:13 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:02:15 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:02:18 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:02:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:02:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:02:22 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:02:25 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:03:09 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:03:10 PM: INFO: **** Page title test passed ****
+10/21/2025 12:03:10 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:03:12 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:03:16 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:03:28 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 12:04:12 PM: INFO: xdist worker is: gw2
+10/21/2025 12:04:12 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:04:12 PM: INFO: xdist worker is: gw0
+10/21/2025 12:04:12 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:04:12 PM: INFO: xdist worker is: gw1
+10/21/2025 12:04:12 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:04:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:15 PM: INFO: There is no [win64] chromedriver "141.0.7390.78" for browser google-chrome "141.0.7390" in cache
+10/21/2025 12:04:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:15 PM: INFO: There is no [win64] chromedriver "141.0.7390.78" for browser google-chrome "141.0.7390" in cache
+10/21/2025 12:04:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:15 PM: INFO: There is no [win64] chromedriver "141.0.7390.78" for browser google-chrome "141.0.7390" in cache
+10/21/2025 12:04:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:16 PM: INFO: WebDriver version 141.0.7390.78 selected
+10/21/2025 12:04:16 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 12:04:16 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 12:04:16 PM: INFO: WebDriver version 141.0.7390.78 selected
+10/21/2025 12:04:16 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 12:04:16 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 12:04:16 PM: INFO: WebDriver version 141.0.7390.78 selected
+10/21/2025 12:04:16 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 12:04:16 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+10/21/2025 12:04:18 PM: INFO: Driver downloading response is 200
+10/21/2025 12:04:18 PM: INFO: Driver downloading response is 200
+10/21/2025 12:04:18 PM: INFO: Driver downloading response is 200
+10/21/2025 12:04:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:22 PM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\gw1\drivers\chromedriver\win64\141.0.7390.78]
+10/21/2025 12:04:22 PM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\gw2\drivers\chromedriver\win64\141.0.7390.78]
+10/21/2025 12:04:22 PM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\gw0\drivers\chromedriver\win64\141.0.7390.78]
+10/21/2025 12:04:25 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:04:26 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:04:29 PM: INFO: **** Page title test passed ****
+10/21/2025 12:04:31 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:04:32 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:04:32 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:04:33 PM: INFO: xdist worker is: gw0
+10/21/2025 12:04:33 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:04:34 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:04:35 PM: INFO: xdist worker is: gw1
+10/21/2025 12:04:35 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:04:36 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:36 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:37 PM: INFO: Driver [C:\Users\Ascendion\.wdm\gw0\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:04:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:04:40 PM: INFO: Driver [C:\Users\Ascendion\.wdm\gw1\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:04:43 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:04:46 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:04:46 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:04:48 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:05:40 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:05:42 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:05:44 PM: INFO: **** Page title test passed ****
+10/21/2025 12:05:52 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:05:52 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:05:52 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:05:57 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:06:12 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:06:14 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:06:15 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:06:17 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:06:32 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 12:08:33 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:08:35 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:08:35 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:08:36 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:08:38 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:08:41 PM: INFO: **** Page title test passed ****
+10/21/2025 12:08:41 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:08:43 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:08:46 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:08:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:08:49 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:08:50 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:08:55 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:08:55 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:08:56 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:08:57 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:08:57 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:08:58 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:09:01 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:09:03 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:09:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:09:04 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:09:06 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:20:54 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:20:56 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:20:56 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:20:57 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:20:58 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:21:00 PM: INFO: **** Page title test passed ****
+10/21/2025 12:21:00 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:21:01 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:21:04 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:21:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:21:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:21:06 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:21:11 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:21:11 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:21:11 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:21:12 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:21:12 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:21:15 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:21:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:21:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:21:18 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:21:20 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:22:08 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:22:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:22:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:22:11 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:22:12 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:22:14 PM: INFO: **** Page title test passed ****
+10/21/2025 12:22:14 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:22:15 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:22:17 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:22:19 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:22:19 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:22:19 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:22:23 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:22:23 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:22:23 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:22:24 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:22:24 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:22:25 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:22:27 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:22:29 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:22:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:22:30 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:22:32 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:26:02 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:26:05 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:26:05 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:26:06 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:26:08 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:26:11 PM: INFO: **** Page title test passed ****
+10/21/2025 12:26:11 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:26:13 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:26:15 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:26:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:26:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:26:18 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:26:24 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:26:24 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:26:24 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:26:25 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:26:25 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:26:28 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:26:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:26:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:26:31 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:26:33 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:27:24 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:27:25 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:27:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:27:26 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:27:29 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:27:31 PM: INFO: **** Page title test passed ****
+10/21/2025 12:27:31 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:27:33 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:27:36 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:27:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:27:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:27:39 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:27:45 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:27:45 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:27:45 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:27:46 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:27:46 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:27:47 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:27:49 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:27:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:27:52 PM: INFO: Get LATEST chromedriver version for google-chrome
+10/21/2025 12:27:52 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+10/21/2025 12:27:54 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:38:43 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:38:45 PM: INFO: **** Page title test passed ****
+10/21/2025 12:38:45 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:38:46 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:38:54 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:38:54 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:38:54 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:38:55 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:38:55 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:38:56 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:39:02 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:43:33 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:43:35 PM: INFO: **** Page title test passed ****
+10/21/2025 12:43:35 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:43:36 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:43:44 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:43:44 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:43:45 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:43:46 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:43:46 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:43:46 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:43:51 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:44:31 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:44:34 PM: INFO: **** Page title test passed ****
+10/21/2025 12:44:34 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:44:35 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:44:42 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:44:42 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:44:43 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:44:44 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:44:44 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:44:45 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:44:50 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:45:30 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:45:32 PM: INFO: **** Page title test passed ****
+10/21/2025 12:45:32 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:45:33 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:45:41 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:45:41 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:45:41 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:45:42 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:45:42 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:45:43 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:45:47 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:46:02 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 12:49:21 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:49:23 PM: INFO: **** Page title test passed ****
+10/21/2025 12:49:23 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:49:24 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:50:01 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:50:01 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:50:03 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:50:04 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:50:04 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:50:05 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:50:10 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:50:33 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A9A013A3F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6167531716f654ad8d39e4d51ab1e599/screenshot
+10/21/2025 12:50:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A9A013A190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6167531716f654ad8d39e4d51ab1e599/screenshot
+10/21/2025 12:50:41 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A9A014EE70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6167531716f654ad8d39e4d51ab1e599/screenshot
+10/21/2025 12:50:49 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A9A010FDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6167531716f654ad8d39e4d51ab1e599
+10/21/2025 12:50:54 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A9A0200160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6167531716f654ad8d39e4d51ab1e599
+10/21/2025 12:50:58 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A9A02005A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6167531716f654ad8d39e4d51ab1e599
+10/21/2025 12:51:24 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:51:26 PM: INFO: **** Page title test passed ****
+10/21/2025 12:51:26 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:51:27 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:51:38 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:51:38 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:51:39 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:51:40 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:51:40 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:51:41 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:51:47 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:52:03 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 12:52:39 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:52:41 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:52:43 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:52:43 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 12:52:52 PM: INFO: **** Starting test_page_title ****
+10/21/2025 12:52:53 PM: INFO: **** Page title test passed ****
+10/21/2025 12:52:53 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 12:52:55 PM: INFO: **** Login positive test passed ****
+10/21/2025 12:53:01 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:53:03 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:53:04 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:53:04 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 12:53:14 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:53:14 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 12:53:15 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 12:53:17 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 12:53:17 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 12:53:19 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 12:53:24 PM: INFO: ====== WebDriver manager ======
+10/21/2025 12:53:25 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:53:26 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 12:53:27 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 12:53:32 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 12:53:44 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 06:14:42 PM: INFO: ====== WebDriver manager ======
+10/21/2025 06:14:45 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 06:14:47 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 06:14:47 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 06:14:57 PM: INFO: **** Starting test_page_title ****
+10/21/2025 06:14:59 PM: INFO: **** Page title test passed ****
+10/21/2025 06:14:59 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 06:15:00 PM: INFO: **** Login positive test passed ****
+10/21/2025 06:15:07 PM: INFO: ====== WebDriver manager ======
+10/21/2025 06:15:09 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 06:15:11 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 06:15:11 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 06:15:24 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 06:15:24 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 06:15:24 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 06:15:26 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 06:15:26 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 06:15:27 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 06:15:33 PM: INFO: ====== WebDriver manager ======
+10/21/2025 06:15:35 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 06:15:35 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 06:15:36 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 06:15:45 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 06:16:06 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 09:45:16 PM: INFO: ====== WebDriver manager ======
+10/21/2025 09:45:23 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 09:45:25 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 09:45:26 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 09:45:42 PM: INFO: **** Starting test_page_title ****
+10/21/2025 09:45:47 PM: INFO: **** Page title test passed ****
+10/21/2025 09:45:47 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 09:45:51 PM: INFO: **** Login positive test passed ****
+10/21/2025 09:45:58 PM: INFO: ====== WebDriver manager ======
+10/21/2025 09:46:01 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 09:46:02 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 09:46:03 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 09:46:12 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 09:46:12 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 09:46:12 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 09:46:13 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 09:46:13 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 09:46:14 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 09:46:18 PM: INFO: ====== WebDriver manager ======
+10/21/2025 09:46:19 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 09:46:20 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 09:46:20 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 09:46:26 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 09:46:40 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 10:49:26 PM: INFO: **** Starting test_page_title ****
+10/21/2025 10:49:28 PM: INFO: **** Page title test passed ****
+10/21/2025 10:49:28 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 10:49:31 PM: INFO: **** Login positive test passed ****
+10/21/2025 10:49:31 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 10:49:32 PM: INFO: Expecting PASS
+10/21/2025 10:49:32 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 10:49:32 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 10:49:33 PM: INFO: Expecting FAIL
+10/21/2025 10:49:33 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 10:49:33 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 10:49:34 PM: INFO: Expecting PASS
+10/21/2025 10:49:35 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 10:49:35 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 10:49:35 PM: INFO: Expecting FAIL
+10/21/2025 10:49:36 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 10:49:43 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 10:49:43 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 10:49:44 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 10:49:44 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 10:49:44 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 10:49:45 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 10:49:49 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 10:50:02 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 10:52:34 PM: INFO: **** Starting test_page_title ****
+10/21/2025 10:52:36 PM: INFO: **** Page title test passed ****
+10/21/2025 10:52:36 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 10:52:37 PM: INFO: **** Login positive test passed ****
+10/21/2025 10:52:37 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 10:52:38 PM: INFO: Expecting PASS
+10/21/2025 10:52:44 PM: ERROR: **** Test FAILED for standard_user (Expected: Pass, but not on inventory page) ****
+10/21/2025 10:52:44 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 10:52:45 PM: INFO: Expecting FAIL
+10/21/2025 10:52:45 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 10:52:45 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 10:52:46 PM: INFO: Expecting PASS
+10/21/2025 10:52:46 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 10:52:46 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 10:52:46 PM: INFO: Expecting FAIL
+10/21/2025 10:52:53 PM: ERROR: **** Test FAILED for invalid_user (Expected: Fail, but no error found) ****
+10/21/2025 10:52:57 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 10:57:32 PM: INFO: **** Starting test_page_title ****
+10/21/2025 10:57:35 PM: INFO: **** Page title test passed ****
+10/21/2025 10:57:35 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 10:57:36 PM: INFO: **** Login positive test passed ****
+10/21/2025 10:57:36 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 10:57:38 PM: INFO: Expecting PASS
+10/21/2025 10:57:48 PM: ERROR: **** Test FAILED for standard_user (Expected: Pass, but not on inventory page) ****
+10/21/2025 10:57:48 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 10:57:49 PM: INFO: Expecting FAIL
+10/21/2025 10:57:50 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 10:57:50 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 10:57:51 PM: INFO: Expecting PASS
+10/21/2025 10:57:51 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 10:57:51 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 10:57:52 PM: INFO: Expecting FAIL
+10/21/2025 10:58:01 PM: ERROR: **** Test FAILED for invalid_user (Expected: Fail, but no error found) ****
+10/21/2025 10:58:07 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 10:58:50 PM: INFO: **** Starting test_page_title ****
+10/21/2025 10:58:52 PM: INFO: **** Page title test passed ****
+10/21/2025 10:58:52 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 10:58:54 PM: INFO: **** Login positive test passed ****
+10/21/2025 10:58:54 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 10:58:56 PM: INFO: Expecting PASS
+10/21/2025 10:59:06 PM: ERROR: **** Test FAILED for standard_user (Expected: Pass, but not on inventory page) ****
+10/21/2025 10:59:06 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 10:59:07 PM: INFO: Expecting FAIL
+10/21/2025 10:59:08 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 10:59:08 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 10:59:09 PM: INFO: Expecting PASS
+10/21/2025 10:59:09 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 10:59:09 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 10:59:10 PM: INFO: Expecting FAIL
+10/21/2025 10:59:20 PM: ERROR: **** Test FAILED for invalid_user (Expected: Fail, but no error found) ****
+10/21/2025 10:59:26 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:00:14 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:00:15 PM: INFO: **** Page title test passed ****
+10/21/2025 11:00:15 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:00:17 PM: INFO: **** Login positive test passed ****
+10/21/2025 11:00:17 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:00:18 PM: INFO: Expecting PASS
+10/21/2025 11:00:18 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:00:18 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:00:19 PM: INFO: Expecting FAIL
+10/21/2025 11:00:19 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:00:19 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 11:00:21 PM: INFO: Expecting PASS
+10/21/2025 11:00:21 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 11:00:21 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:00:22 PM: INFO: Expecting FAIL
+10/21/2025 11:00:22 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:00:28 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:00:46 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:01:50 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:01:53 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:01:54 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:01:55 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:02:03 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:02:04 PM: INFO: **** Page title test passed ****
+10/21/2025 11:02:04 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:02:06 PM: INFO: **** Login positive test passed ****
+10/21/2025 11:02:06 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:02:08 PM: INFO: Expecting PASS
+10/21/2025 11:02:09 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:02:09 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:02:11 PM: INFO: Expecting FAIL
+10/21/2025 11:02:11 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:02:11 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 11:02:12 PM: INFO: Expecting PASS
+10/21/2025 11:02:12 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 11:02:12 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:02:13 PM: INFO: Expecting FAIL
+10/21/2025 11:02:13 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:02:20 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:02:21 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:02:22 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:02:23 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:02:29 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:02:43 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:09:18 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:09:20 PM: INFO: **** Page title test passed ****
+10/21/2025 11:09:20 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:09:23 PM: INFO: Expecting PASS
+10/21/2025 11:09:23 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:09:23 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:09:25 PM: INFO: Expecting FAIL
+10/21/2025 11:09:25 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:09:25 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:09:27 PM: INFO: Expecting FAIL
+10/21/2025 11:09:27 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:09:36 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:10:00 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:11:36 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:11:37 PM: INFO: **** Page title test passed ****
+10/21/2025 11:11:37 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:11:39 PM: INFO: Expecting PASS
+10/21/2025 11:11:39 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:11:39 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:11:40 PM: INFO: Expecting FAIL
+10/21/2025 11:11:41 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:11:41 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:11:42 PM: INFO: Expecting FAIL
+10/21/2025 11:11:42 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:11:51 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:11:51 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:11:52 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:11:52 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:11:52 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:11:53 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:11:59 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:12:17 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:15:00 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:15:01 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:15:03 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:15:03 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:15:09 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:15:10 PM: INFO: **** Page title test passed ****
+10/21/2025 11:15:10 PM: INFO: **** Starting test_login_positive ****
+10/21/2025 11:15:11 PM: INFO: **** Login positive test passed ****
+10/21/2025 11:15:11 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:15:13 PM: INFO: Expecting PASS
+10/21/2025 11:15:13 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:15:13 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:15:14 PM: INFO: Expecting FAIL
+10/21/2025 11:15:14 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:15:14 PM: INFO: **** Starting test_login_data_driven for problem_user ****
+10/21/2025 11:15:15 PM: INFO: Expecting PASS
+10/21/2025 11:15:15 PM: INFO: **** Test PASSED for problem_user (Expected: Pass) ****
+10/21/2025 11:15:15 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:15:16 PM: INFO: Expecting FAIL
+10/21/2025 11:15:16 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:15:21 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:15:23 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:15:24 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:15:24 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:15:35 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:15:35 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:15:35 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:15:36 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:15:36 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:15:37 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:15:45 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:15:47 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:15:48 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:15:48 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:15:58 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:16:22 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:17:03 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:17:05 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:17:07 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:17:07 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:17:14 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:17:15 PM: INFO: **** Page title test passed ****
+10/21/2025 11:17:15 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:17:17 PM: INFO: Expecting PASS
+10/21/2025 11:17:17 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:17:17 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:17:19 PM: INFO: Expecting FAIL
+10/21/2025 11:17:19 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:17:19 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:17:20 PM: INFO: Expecting FAIL
+10/21/2025 11:17:20 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:17:25 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:17:27 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:17:28 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:17:28 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:17:37 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:17:37 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:17:37 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:17:39 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:17:39 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:17:40 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:17:45 PM: INFO: ====== WebDriver manager ======
+10/21/2025 11:17:46 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:17:47 PM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/21/2025 11:17:47 PM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/21/2025 11:17:51 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:18:02 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:32:20 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:32:22 PM: INFO: **** Page title test passed ****
+10/21/2025 11:32:22 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:32:24 PM: INFO: Expecting PASS
+10/21/2025 11:32:24 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:32:24 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:32:26 PM: INFO: Expecting FAIL
+10/21/2025 11:32:26 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:32:26 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:32:27 PM: INFO: Expecting FAIL
+10/21/2025 11:32:27 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:32:36 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:32:36 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:32:36 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:32:38 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:32:38 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:32:38 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:32:45 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:32:59 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:33:06 PM: INFO: **** Starting test_alerts ****
+10/21/2025 11:33:13 PM: INFO: **** test_alerts PASSED ****
+10/21/2025 11:33:13 PM: INFO: **** Starting test_window_handling ****
+10/21/2025 11:33:14 PM: INFO: **** test_window_handling PASSED ****
+10/21/2025 11:33:14 PM: INFO: **** Starting test_frame_handling ****
+10/21/2025 11:33:20 PM: INFO: **** Starting test_checkboxes_and_radio ****
+10/21/2025 11:33:30 PM: INFO: **** Starting test_web_table ****
+10/21/2025 11:33:37 PM: INFO: **** test_web_table PASSED ****
+10/21/2025 11:33:37 PM: INFO: **** Starting test_mouse_hover ****
+10/21/2025 11:33:43 PM: INFO: **** test_mouse_hover PASSED ****
+10/21/2025 11:33:43 PM: INFO: **** Starting test_drag_and_drop ****
+10/21/2025 11:33:51 PM: INFO: **** Starting test_file_upload ****
+10/21/2025 11:33:54 PM: INFO: **** test_file_upload PASSED ****
+10/21/2025 11:33:54 PM: INFO: **** Starting test_broken_links ****
+10/21/2025 11:33:57 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:33:58 PM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:33:58 PM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:33:59 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:33:59 PM: INFO: **** test_broken_links COMPLETED ****
+10/21/2025 11:42:01 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:42:02 PM: INFO: **** Page title test passed ****
+10/21/2025 11:42:02 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:42:04 PM: INFO: Expecting PASS
+10/21/2025 11:42:04 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:42:04 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:42:05 PM: INFO: Expecting FAIL
+10/21/2025 11:42:05 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:42:05 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:42:06 PM: INFO: Expecting FAIL
+10/21/2025 11:42:06 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:42:16 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:42:16 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:42:16 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:42:17 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:42:17 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:42:18 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:42:23 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:42:40 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:42:46 PM: INFO: **** Starting test_alerts ****
+10/21/2025 11:42:53 PM: INFO: **** test_alerts PASSED ****
+10/21/2025 11:42:53 PM: INFO: **** Starting test_window_handling ****
+10/21/2025 11:42:54 PM: INFO: **** test_window_handling PASSED ****
+10/21/2025 11:42:54 PM: INFO: **** Starting test_frame_handling ****
+10/21/2025 11:42:57 PM: INFO: **** Starting test_checkboxes_and_radio ****
+10/21/2025 11:43:08 PM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/21/2025 11:43:08 PM: INFO: **** Starting test_web_table ****
+10/21/2025 11:43:12 PM: INFO: **** test_web_table PASSED ****
+10/21/2025 11:43:12 PM: INFO: **** Starting test_mouse_hover ****
+10/21/2025 11:43:19 PM: INFO: **** test_mouse_hover PASSED ****
+10/21/2025 11:43:19 PM: INFO: **** Starting test_drag_and_drop ****
+10/21/2025 11:43:26 PM: INFO: **** Starting test_file_upload ****
+10/21/2025 11:43:29 PM: INFO: **** test_file_upload PASSED ****
+10/21/2025 11:43:29 PM: INFO: **** Starting test_broken_links ****
+10/21/2025 11:43:33 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:43:33 PM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:43:34 PM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:43:34 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:43:34 PM: INFO: **** test_broken_links COMPLETED ****
+10/21/2025 11:50:01 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:50:04 PM: INFO: **** Page title test passed ****
+10/21/2025 11:50:04 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:50:06 PM: INFO: Expecting PASS
+10/21/2025 11:50:06 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:50:06 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:50:08 PM: INFO: Expecting FAIL
+10/21/2025 11:50:08 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:50:08 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:50:09 PM: INFO: Expecting FAIL
+10/21/2025 11:50:09 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:50:53 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:50:53 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:50:54 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:50:55 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:50:55 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:50:56 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:51:01 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:51:17 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/21/2025 11:51:23 PM: INFO: **** Starting test_alerts ****
+10/21/2025 11:51:30 PM: INFO: **** test_alerts PASSED ****
+10/21/2025 11:51:30 PM: INFO: **** Starting test_window_handling ****
+10/21/2025 11:51:32 PM: INFO: **** test_window_handling PASSED ****
+10/21/2025 11:51:32 PM: INFO: **** Starting test_frame_handling ****
+10/21/2025 11:51:35 PM: INFO: **** Starting test_checkboxes_and_radio ****
+10/21/2025 11:51:46 PM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/21/2025 11:51:46 PM: INFO: **** Starting test_web_table ****
+10/21/2025 11:51:49 PM: INFO: **** test_web_table PASSED ****
+10/21/2025 11:51:49 PM: INFO: **** Starting test_mouse_hover ****
+10/21/2025 11:51:59 PM: INFO: **** test_mouse_hover PASSED ****
+10/21/2025 11:51:59 PM: INFO: **** Starting test_drag_and_drop ****
+10/21/2025 11:52:05 PM: INFO: **** Starting test_file_upload ****
+10/21/2025 11:52:09 PM: INFO: **** test_file_upload PASSED ****
+10/21/2025 11:52:09 PM: INFO: **** Starting test_broken_links ****
+10/21/2025 11:52:13 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:52:13 PM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:52:13 PM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:52:14 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:52:14 PM: INFO: **** test_broken_links COMPLETED ****
+10/21/2025 11:56:45 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:56:47 PM: INFO: **** Page title test passed ****
+10/21/2025 11:56:47 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:56:48 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:56:48 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:57:02 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/21/2025 11:57:10 PM: INFO: **** Starting test_alerts ****
+10/21/2025 11:57:15 PM: INFO: **** Starting test_window_handling ****
+10/21/2025 11:57:15 PM: INFO: **** Starting test_frame_handling ****
+10/21/2025 11:57:17 PM: INFO: **** Starting test_checkboxes_and_radio ****
+10/21/2025 11:57:24 PM: INFO: **** Starting test_web_table ****
+10/21/2025 11:57:31 PM: INFO: **** Starting test_mouse_hover ****
+10/21/2025 11:57:34 PM: INFO: **** Starting test_drag_and_drop ****
+10/21/2025 11:57:37 PM: INFO: **** Starting test_file_upload ****
+10/21/2025 11:57:39 PM: INFO: **** Starting test_broken_links ****
+10/21/2025 11:57:42 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:57:42 PM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:57:42 PM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:57:43 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/21/2025 11:57:43 PM: INFO: **** test_broken_links COMPLETED ****
+10/21/2025 11:59:28 PM: INFO: **** Starting test_page_title ****
+10/21/2025 11:59:29 PM: INFO: **** Page title test passed ****
+10/21/2025 11:59:29 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/21/2025 11:59:30 PM: INFO: Expecting PASS
+10/21/2025 11:59:30 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/21/2025 11:59:30 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/21/2025 11:59:32 PM: INFO: Expecting FAIL
+10/21/2025 11:59:32 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/21/2025 11:59:32 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/21/2025 11:59:33 PM: INFO: Expecting FAIL
+10/21/2025 11:59:33 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/21/2025 11:59:41 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:59:41 PM: INFO: **** Starting test_add_item_to_cart ****
+10/21/2025 11:59:41 PM: INFO: **** Add item to cart test passed ****
+10/21/2025 11:59:42 PM: INFO: **** Logged in for inventory tests ****
+10/21/2025 11:59:42 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/21/2025 11:59:43 PM: INFO: **** Successfully selected from dropdown ****
+10/21/2025 11:59:49 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:00:05 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 12:00:12 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:00:20 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 12:00:20 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:00:21 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 12:00:21 AM: INFO: **** Starting test_frame_handling ****
+10/22/2025 12:00:25 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:00:39 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 12:00:39 AM: INFO: **** Starting test_web_table ****
+10/22/2025 12:00:45 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 12:00:45 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 12:00:51 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 12:00:51 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 12:01:01 AM: INFO: **** test_drag_and_drop PASSED ****
+10/22/2025 12:01:01 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 12:01:03 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 12:01:03 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 12:01:05 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:01:06 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:01:06 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:01:07 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:01:07 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 12:04:36 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:04:38 AM: INFO: **** Page title test passed ****
+10/22/2025 12:04:38 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:04:40 AM: INFO: Expecting PASS
+10/22/2025 12:04:40 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 12:04:40 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:04:42 AM: INFO: Expecting FAIL
+10/22/2025 12:04:42 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 12:04:42 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:04:43 AM: INFO: Expecting FAIL
+10/22/2025 12:04:43 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 12:04:51 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:04:51 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 12:04:51 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 12:04:52 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:04:52 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 12:04:52 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 12:04:57 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:05:12 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 12:05:17 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:05:24 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 12:05:24 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:05:25 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 12:05:25 AM: INFO: **** Starting test_frame_handling ****
+10/22/2025 12:05:29 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:05:45 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 12:05:45 AM: INFO: **** Starting test_web_table ****
+10/22/2025 12:05:50 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 12:05:50 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 12:05:56 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 12:05:56 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 12:06:07 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 12:06:13 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 12:06:13 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 12:06:26 AM: ERROR: Error checking link https://github.com/tourdedave/the-internet: HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /tourdedave/the-internet (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C1A728FB60>: Failed to resolve 'github.com' ([Errno 11001] getaddrinfo failed)"))
+10/22/2025 12:06:56 AM: ERROR: Error checking link http://elementalselenium.com/: HTTPConnectionPool(host='elementalselenium.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C1A76D8770>, 'Connection to elementalselenium.com timed out. (connect timeout=5)'))
+10/22/2025 12:07:06 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C1A7329590>: Failed to resolve 'the-internet.herokuapp.com' ([Errno 11001] getaddrinfo failed)"))
+10/22/2025 12:07:06 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C1A7329A90>: Failed to resolve 'the-internet.herokuapp.com' ([Errno 11001] getaddrinfo failed)"))
+10/22/2025 12:07:06 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C1A7329E50>: Failed to resolve 'the-internet.herokuapp.com' ([Errno 11001] getaddrinfo failed)"))
+10/22/2025 12:07:06 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C1A732A210>: Failed to resolve 'the-internet.herokuapp.com' ([Errno 11001] getaddrinfo failed)"))
+10/22/2025 12:07:06 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 12:07:21 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:07:51 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:07:52 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:07:52 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:08:12 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:08:32 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:08:43 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_frame_handling ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_web_table ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 12:08:44 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 12:09:08 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:09:10 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:09:11 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:09:13 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:09:23 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:09:25 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:09:25 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:09:26 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:09:48 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:09:56 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:09:56 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:09:57 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:24:48 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:24:51 AM: INFO: **** Page title test passed ****
+10/22/2025 12:24:51 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:24:54 AM: INFO: Expecting PASS
+10/22/2025 12:24:54 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 12:24:54 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:24:56 AM: INFO: Expecting FAIL
+10/22/2025 12:24:56 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 12:24:56 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:24:57 AM: INFO: Expecting FAIL
+10/22/2025 12:24:57 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 12:25:09 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:25:09 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 12:25:11 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 12:25:13 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:25:13 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 12:25:14 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 12:25:21 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:25:39 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 12:25:44 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:25:50 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 12:25:50 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:25:52 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 12:25:52 AM: INFO: **** Starting test_frame_handling ****
+10/22/2025 12:25:56 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:26:07 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 12:26:07 AM: INFO: **** Starting test_web_table ****
+10/22/2025 12:26:10 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 12:26:10 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 12:26:13 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 12:26:13 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 12:26:53 AM: INFO: **** test_drag_and_drop PASSED ****
+10/22/2025 12:26:53 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 12:26:57 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 12:26:57 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 12:27:03 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:27:03 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:27:03 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:27:04 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:27:04 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 12:31:45 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:31:48 AM: INFO: **** Page title test passed ****
+10/22/2025 12:31:48 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:31:50 AM: INFO: Expecting PASS
+10/22/2025 12:31:50 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 12:31:50 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:31:52 AM: INFO: Expecting FAIL
+10/22/2025 12:31:52 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 12:31:52 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:31:54 AM: INFO: Expecting FAIL
+10/22/2025 12:31:54 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 12:32:08 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:32:08 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 12:32:09 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 12:32:11 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:32:11 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 12:32:11 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 12:32:18 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:32:38 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 12:32:43 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:32:49 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 12:32:49 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:32:50 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 12:32:50 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:36:17 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/2cea808e8070436560755fa82a8eddd6/screenshot
+10/22/2025 12:36:21 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210922D6C30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2cea808e8070436560755fa82a8eddd6/screenshot
+10/22/2025 12:36:30 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021092339480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2cea808e8070436560755fa82a8eddd6
+10/22/2025 12:36:34 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002109233A470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2cea808e8070436560755fa82a8eddd6
+10/22/2025 12:36:39 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021092BEC160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2cea808e8070436560755fa82a8eddd6
+10/22/2025 12:38:12 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:38:14 AM: INFO: **** Page title test passed ****
+10/22/2025 12:38:14 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:38:17 AM: INFO: Expecting PASS
+10/22/2025 12:38:18 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 12:38:18 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:38:21 AM: INFO: Expecting FAIL
+10/22/2025 12:38:22 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 12:38:22 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:38:24 AM: INFO: Expecting FAIL
+10/22/2025 12:38:24 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 12:38:36 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:38:36 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 12:38:36 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 12:38:38 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:38:38 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 12:38:38 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 12:39:17 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:40:47 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:40:55 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 12:40:55 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:40:57 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 12:40:57 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:41:12 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 12:41:12 AM: INFO: **** Starting test_web_table ****
+10/22/2025 12:41:15 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 12:41:15 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 12:41:19 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 12:41:19 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 12:41:23 AM: INFO: **** test_drag_and_drop PASSED ****
+10/22/2025 12:41:23 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 12:41:26 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 12:41:26 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 12:41:29 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:41:30 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:41:31 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:41:32 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:41:32 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 12:43:20 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:43:25 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:43:26 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:43:27 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:43:28 AM: INFO: Getting latest mozilla release info for v0.36.0
+10/22/2025 12:43:30 AM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+10/22/2025 12:43:32 AM: INFO: Driver downloading response is 200
+10/22/2025 12:43:33 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:43:34 AM: INFO: Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0]
+10/22/2025 12:43:50 AM: INFO: **** Starting test_page_title ****
+10/22/2025 12:43:53 AM: INFO: **** Page title test passed ****
+10/22/2025 12:43:53 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 12:43:56 AM: INFO: Expecting PASS
+10/22/2025 12:43:56 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 12:43:56 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 12:43:58 AM: INFO: Expecting FAIL
+10/22/2025 12:43:58 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 12:43:58 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 12:43:59 AM: INFO: Expecting FAIL
+10/22/2025 12:43:59 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 12:44:06 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:44:10 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:44:12 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:44:12 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 12:44:23 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:44:23 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 12:44:24 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 12:44:25 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 12:44:25 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 12:44:25 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 12:44:31 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:44:33 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:44:34 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:44:35 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 12:44:43 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 12:44:57 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 12:45:00 AM: INFO: ====== WebDriver manager ======
+10/22/2025 12:45:02 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:45:03 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 12:45:03 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 12:45:10 AM: INFO: **** Starting test_alerts ****
+10/22/2025 12:45:16 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 12:45:16 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 12:45:17 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 12:45:17 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 12:46:27 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 12:46:27 AM: INFO: **** Starting test_web_table ****
+10/22/2025 12:46:28 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 12:46:28 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 12:46:31 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 12:46:31 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 12:46:34 AM: INFO: **** test_drag_and_drop PASSED ****
+10/22/2025 12:46:34 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 12:46:37 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 12:46:37 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 12:46:39 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:46:39 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:46:40 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:46:40 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 12:46:40 AM: INFO: **** test_broken_links COMPLETED ****

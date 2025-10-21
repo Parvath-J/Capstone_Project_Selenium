@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_004_advanced_features.py:50 **** Starting test_window_handling ****

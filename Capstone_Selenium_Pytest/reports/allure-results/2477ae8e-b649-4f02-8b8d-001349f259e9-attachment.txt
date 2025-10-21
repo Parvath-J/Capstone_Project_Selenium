@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_004_advanced_features.py:21 **** Starting test_alerts ****
+[32mINFO    [0m root:test_004_advanced_features.py:46 **** test_alerts PASSED ****

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_004_advanced_features.py:108 **** Starting test_checkboxes_and_radio ****
+[32mINFO    [0m root:test_004_advanced_features.py:128 **** test_checkboxes_and_radio PASSED ****

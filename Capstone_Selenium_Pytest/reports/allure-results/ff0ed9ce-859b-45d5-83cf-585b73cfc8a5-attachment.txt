@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_004_advanced_features.py:177 **** Starting test_file_upload ****
+[32mINFO    [0m root:test_004_advanced_features.py:198 **** test_file_upload PASSED ****

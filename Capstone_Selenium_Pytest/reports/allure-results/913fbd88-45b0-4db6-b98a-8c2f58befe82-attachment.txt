@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+[32mINFO    [0m root:test_003_checkout_flow.py:22 **** Starting Test_003_Checkout End-to-End Test ****
+[32mINFO    [0m root:test_003_checkout_flow.py:58 **** End-to-End Checkout Test Passed ****

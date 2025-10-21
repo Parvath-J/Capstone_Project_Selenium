@@ -1,0 +1,11 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Getting latest mozilla release info for v0.36.0
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0]
+[32mINFO    [0m root:test_001_login.py:52 **** Starting test_page_title ****
+[32mINFO    [0m root:test_001_login.py:58 **** Page title test passed ****

@@ -2,10 +2,11 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
+# from webdriver_manager.chrome import ChromeDriverManager # No longer needed for manual Chrome
 from selenium.webdriver.firefox.service import Service as FirefoxService
-from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.firefox import GeckoDriverManager # Keep for Firefox
 from selenium.webdriver.edge.service import Service as EdgeService
+# No webdriver_manager needed for manual Edge
 import allure
 from allure_commons.types import AttachmentType
 import os
@@ -24,31 +25,44 @@ def setup(request):
 
     if browser_name == "chrome":
         chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("--headless")
+        # Keep options if needed, e.g., for headless runs in CI
+        # chrome_options.add_argument("--headless")
         chrome_options.add_argument("--no-sandbox")
         chrome_options.add_argument("--disable-dev-shm-usage")
         chrome_options.add_argument("--window-size=1920,1080")
-        # --- THIS LINE IS MODIFIED ---
-        # Pass the options when creating the driver instance
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
+
+        # --- USE MANUAL PATH FOR CHROME ---
+        chrome_driver_path = "./drivers/chromedriver.exe" # Path to your downloaded chromedriver
+        service = ChromeService(executable_path=chrome_driver_path)
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        # --- END OF CHROME MODIFICATION ---
+
     elif browser_name == "firefox":
+        # --- FIREFOX USES WEBDRIVER-MANAGER (As before) ---
         firefox_options = webdriver.FirefoxOptions()
-        firefox_options.add_argument("--headless")
+        # Add headless option if you run Firefox headlessly
+        # firefox_options.add_argument("--headless")
         driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()), options=firefox_options)
+
     elif browser_name == "edge":
-        edge_driver_path = "./drivers/msedgedriver.exe"
+        # --- EDGE USES MANUAL PATH (As before) ---
+        edge_driver_path = "./drivers/msedgedriver.exe" # Path to your downloaded msedgedriver
         service = EdgeService(executable_path=edge_driver_path)
-        driver = webdriver.Edge(service=service) # Note: Headless Edge on Linux in Actions is complex
+        driver = webdriver.Edge(service=service)
+        # Add Edge options here if needed, e.g., for headless (though complex on Linux)
+        # edge_options = webdriver.EdgeOptions()
+        # edge_options.add_argument("--headless")
+        # driver = webdriver.Edge(service=service, options=edge_options)
+
     else:
         raise pytest.UsageError("--browser option is invalid, choose from chrome/firefox/edge")
 
     driver.implicitly_wait(10)
-    # driver.maximize_window() # Keep this commented out for headless
+    # driver.maximize_window() # Keep commented out if running headless/in CI
     request.cls.driver = driver
     yield
     driver.quit()
 
-# --- (Rest of the file remains the same) ---
 
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
@@ -68,7 +82,6 @@ def pytest_runtest_makereport(item, call):
             filename = f"{item.name}_{timestamp}.png"
             file_path = os.path.join(screenshot_dir, filename)
             driver.save_screenshot(file_path)
-            # print(f"Screenshot saved to: {file_path}") # Optional
 
             # --- Embed Screenshot in HTML Report ---
             screenshot_png = driver.get_screenshot_as_png()

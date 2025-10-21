@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 144.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+[32mINFO    [0m root:test_004_advanced_features.py:21 **** Starting test_alerts ****
+[32mINFO    [0m root:test_004_advanced_features.py:46 **** test_alerts PASSED ****

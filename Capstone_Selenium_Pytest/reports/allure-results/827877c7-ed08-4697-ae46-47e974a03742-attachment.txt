@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_004_advanced_features.py:166 **** Starting test_drag_and_drop ****
+[32mINFO    [0m root:test_004_advanced_features.py:177 **** test_drag_and_drop PASSED ****

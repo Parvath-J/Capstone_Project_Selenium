@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_004_advanced_features.py:135 **** Starting test_web_table ****
+[32mINFO    [0m root:test_004_advanced_features.py:146 **** test_web_table PASSED ****

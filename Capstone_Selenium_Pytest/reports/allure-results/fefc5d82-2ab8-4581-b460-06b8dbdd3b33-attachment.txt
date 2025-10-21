@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_001_login.py:90 **** Starting test_login_data_driven for locked_out_user ****
+[32mINFO    [0m root:test_001_login.py:109 Expecting FAIL
+[32mINFO    [0m root:test_001_login.py:112 **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****

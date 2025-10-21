@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_004_advanced_features.py:134 **** Starting test_mouse_hover ****
+[32mINFO    [0m root:test_004_advanced_features.py:146 **** test_mouse_hover PASSED ****
