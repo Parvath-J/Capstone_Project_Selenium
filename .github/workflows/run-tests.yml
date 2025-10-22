@@ -21,36 +21,36 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.11' # Or your preferred Python version
 
       # Step 3: Install Python dependencies
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
+          # Path points inside the project subfolder
           pip install -r Capstone_Selenium_Pytest/requirements.txt
+        # Use PowerShell, the default on Windows runners
         shell: pwsh
 
-      # Step 4: Run Pytest tests using Edge
+      # Step 4: Run Pytest tests using Firefox
       - name: Run Pytest with Edge
-        # --- THIS IS THE NEW LINE ---
-        continue-on-error: true
-        # ----------------------------
         run: |
+          # Navigate into the project folder first
           cd Capstone_Selenium_Pytest
-          pytest -v --browser edge `
-            --alluredir=allure-results `
-            --html=reports/github_test_report.html `
-            --self-contained-html
+          # Run pytest specifying edge
+          pytest -v --browser firefox --alluredir=allure-results
         shell: pwsh
 
       # Step 5: Upload Allure results artifact
       - name: Upload Allure results
+        # Run this step even if previous steps fail
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: allure-results
+          name: allure-results # Name of the artifact
+          # Path relative to repo root, inside the project folder
           path: Capstone_Selenium_Pytest/allure-results
-          retention-days: 7
+          retention-days: 7 # How long to keep the artifact
 
       # Step 6: Upload HTML report
       - name: Upload HTML report
@@ -58,5 +58,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: html-test-report
-          path: Capstone_Selenium_Pytest/reports/github_test_report.html
+          path: Capstone_Selenium_Pytest/reports/test_report.html
           retention-days: 7
