@@ -1700,3 +1700,134 @@
 10/22/2025 12:46:40 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
 10/22/2025 12:46:40 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
 10/22/2025 12:46:40 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 10:15:36 AM: INFO: **** Starting test_page_title ****
+10/22/2025 10:15:38 AM: INFO: **** Page title test passed ****
+10/22/2025 10:15:38 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 10:15:40 AM: INFO: Expecting PASS
+10/22/2025 10:15:40 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 10:15:40 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 10:15:43 AM: INFO: Expecting FAIL
+10/22/2025 10:15:43 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 10:15:43 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 10:15:45 AM: INFO: Expecting FAIL
+10/22/2025 10:15:45 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 10:15:52 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 10:15:52 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 10:15:53 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 10:15:54 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 10:15:54 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 10:15:54 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 10:15:59 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 10:16:14 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 10:16:19 AM: INFO: **** Starting test_alerts ****
+10/22/2025 10:16:25 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 10:16:25 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 10:16:26 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 10:16:26 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 10:16:36 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 10:16:36 AM: INFO: **** Starting test_web_table ****
+10/22/2025 10:16:39 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 10:16:39 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 10:16:42 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 10:16:42 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 10:16:50 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 10:16:53 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 10:16:53 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 10:16:56 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:16:56 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:16:57 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:16:57 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:16:57 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 10:24:08 AM: INFO: ====== WebDriver manager ======
+10/22/2025 10:24:12 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:24:14 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:24:14 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 10:24:24 AM: INFO: **** Starting test_page_title ****
+10/22/2025 10:24:25 AM: INFO: **** Page title test passed ****
+10/22/2025 10:24:25 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 10:24:28 AM: INFO: Expecting PASS
+10/22/2025 10:24:28 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 10:24:28 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 10:24:29 AM: INFO: Expecting FAIL
+10/22/2025 10:24:29 AM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 10:24:29 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 10:24:30 AM: INFO: Expecting FAIL
+10/22/2025 10:24:30 AM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 10:24:34 AM: INFO: ====== WebDriver manager ======
+10/22/2025 10:24:36 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:24:37 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:24:38 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 10:24:46 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 10:24:46 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 10:24:47 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 10:24:48 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 10:24:48 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 10:24:48 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 10:24:53 AM: INFO: ====== WebDriver manager ======
+10/22/2025 10:24:55 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:24:55 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:24:56 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 10:25:03 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 10:25:17 AM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 10:25:21 AM: INFO: ====== WebDriver manager ======
+10/22/2025 10:25:23 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:25:24 AM: INFO: Get LATEST geckodriver version for 144.0 firefox
+10/22/2025 10:25:24 AM: INFO: Driver [C:\Users\Ascendion\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+10/22/2025 10:25:30 AM: INFO: **** Starting test_alerts ****
+10/22/2025 10:25:36 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 10:25:36 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 10:25:37 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 10:25:37 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 10:25:54 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 10:25:54 AM: INFO: **** Starting test_web_table ****
+10/22/2025 10:25:57 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 10:25:57 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 10:26:07 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 10:26:07 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 10:26:13 AM: INFO: **** test_drag_and_drop PASSED ****
+10/22/2025 10:26:13 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 10:26:17 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 10:26:17 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 10:26:21 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:26:22 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:26:22 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:26:22 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:26:22 AM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 10:27:41 AM: INFO: **** Starting test_page_title ****
+10/22/2025 10:27:44 AM: INFO: **** Page title test passed ****
+10/22/2025 10:27:44 AM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 10:27:45 AM: INFO: Expecting PASS
+10/22/2025 10:27:45 AM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 10:27:45 AM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 10:27:47 AM: INFO: Expecting FAIL
+10/22/2025 10:27:57 AM: ERROR: **** Test FAILED for locked_out_user (Expected: Fail, but no error found) ****
+10/22/2025 10:27:57 AM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 10:27:58 AM: INFO: Expecting FAIL
+10/22/2025 10:28:08 AM: ERROR: **** Test FAILED for invalid_user (Expected: Fail, but no error found) ****
+10/22/2025 10:28:16 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 10:28:16 AM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 10:28:17 AM: INFO: **** Add item to cart test passed ****
+10/22/2025 10:28:17 AM: INFO: **** Logged in for inventory tests ****
+10/22/2025 10:28:17 AM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 10:28:18 AM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 10:28:23 AM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 10:28:53 AM: INFO: **** Starting test_alerts ****
+10/22/2025 10:28:59 AM: INFO: **** test_alerts PASSED ****
+10/22/2025 10:28:59 AM: INFO: **** Starting test_window_handling ****
+10/22/2025 10:29:00 AM: INFO: **** test_window_handling PASSED ****
+10/22/2025 10:29:00 AM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 10:29:22 AM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 10:29:22 AM: INFO: **** Starting test_web_table ****
+10/22/2025 10:29:27 AM: INFO: **** test_web_table PASSED ****
+10/22/2025 10:29:27 AM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 10:29:31 AM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 10:29:32 AM: INFO: **** Starting test_drag_and_drop ****
+10/22/2025 10:29:39 AM: INFO: **** test_drag_and_drop PASSED ****
+10/22/2025 10:29:39 AM: INFO: **** Starting test_file_upload ****
+10/22/2025 10:29:42 AM: INFO: **** test_file_upload PASSED ****
+10/22/2025 10:29:42 AM: INFO: **** Starting test_broken_links ****
+10/22/2025 10:29:45 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:29:45 AM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:29:46 AM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:29:46 AM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 10:29:46 AM: INFO: **** test_broken_links COMPLETED ****
