@@ -32,13 +32,13 @@ jobs:
         # Use PowerShell, the default on Windows runners
         shell: pwsh
 
-      # Step 4: Run Pytest tests using Firefox
+      # Step 4: Run Pytest tests using Edge
       - name: Run Pytest with Edge
         run: |
           # Navigate into the project folder first
           cd Capstone_Selenium_Pytest
           # Run pytest specifying edge
-          pytest -v --browser firefox --alluredir=allure-results
+          pytest -v --browser edge --alluredir=allure-results
         shell: pwsh
 
       # Step 5: Upload Allure results artifact
