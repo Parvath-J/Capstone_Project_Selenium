@@ -38,7 +38,7 @@ jobs:
           # Navigate into the project folder first
           cd Capstone_Selenium_Pytest
           # Run pytest specifying edge
-          pytest -v --browser edge --alluredir=allure-results
+          pytest -v --browser firefox --alluredir=allure-results
         shell: pwsh
 
       # Step 5: Upload Allure results artifact

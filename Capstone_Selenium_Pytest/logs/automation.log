@@ -2602,3 +2602,98 @@
 10/22/2025 04:22:04 PM: INFO: **** Starting test_login_data_driven for standard_user ****
 10/22/2025 04:22:07 PM: INFO: Expecting PASS
 10/22/2025 04:22:07 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 04:35:12 PM: INFO: **** Starting test_page_title ****
+10/22/2025 04:35:13 PM: INFO: **** Page title test passed ****
+10/22/2025 04:35:13 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 04:35:15 PM: INFO: Expecting PASS
+10/22/2025 04:35:15 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 04:35:15 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 04:35:16 PM: INFO: Expecting FAIL
+10/22/2025 04:35:16 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 04:35:16 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 04:35:17 PM: INFO: Expecting FAIL
+10/22/2025 04:35:17 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 04:35:29 PM: INFO: **** Logged in for inventory tests ****
+10/22/2025 04:35:29 PM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 04:35:29 PM: INFO: **** Add item to cart test passed ****
+10/22/2025 04:35:30 PM: INFO: **** Logged in for inventory tests ****
+10/22/2025 04:35:30 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 04:35:31 PM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 04:35:40 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 04:35:50 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 04:35:57 PM: INFO: **** Starting test_alerts ****
+10/22/2025 04:36:01 PM: INFO: **** test_alerts PASSED ****
+10/22/2025 04:36:01 PM: INFO: **** Starting test_window_handling ****
+10/22/2025 04:36:01 PM: INFO: **** test_window_handling PASSED ****
+10/22/2025 04:36:01 PM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 04:37:42 PM: INFO: **** test_checkboxes_and_radio PASSED ****
+10/22/2025 04:37:42 PM: INFO: **** Starting test_web_table ****
+10/22/2025 04:37:47 PM: INFO: **** test_web_table PASSED ****
+10/22/2025 04:37:47 PM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 04:37:53 PM: INFO: **** test_mouse_hover PASSED ****
+10/22/2025 04:37:53 PM: INFO: **** Starting test_file_upload ****
+10/22/2025 04:37:57 PM: INFO: **** test_file_upload PASSED ****
+10/22/2025 04:37:57 PM: INFO: **** Starting test_broken_links ****
+10/22/2025 04:38:00 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/forkme_right_green_007200.png: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/forkme_right_green_007200.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 04:38:01 PM: ERROR: Error checking link https://the-internet.herokuapp.com/asdf.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /asdf.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 04:38:01 PM: ERROR: Error checking link https://the-internet.herokuapp.com/hjkl.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /hjkl.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 04:38:02 PM: ERROR: Error checking link https://the-internet.herokuapp.com/img/avatar-blank.jpg: HTTPSConnectionPool(host='the-internet.herokuapp.com', port=443): Max retries exceeded with url: /img/avatar-blank.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+10/22/2025 04:38:02 PM: INFO: **** test_broken_links COMPLETED ****
+10/22/2025 04:39:51 PM: INFO: **** Starting test_page_title ****
+10/22/2025 04:39:52 PM: INFO: **** Page title test passed ****
+10/22/2025 04:39:52 PM: INFO: **** Starting test_login_data_driven for standard_user ****
+10/22/2025 04:39:54 PM: INFO: Expecting PASS
+10/22/2025 04:39:54 PM: INFO: **** Test PASSED for standard_user (Expected: Pass) ****
+10/22/2025 04:39:54 PM: INFO: **** Starting test_login_data_driven for locked_out_user ****
+10/22/2025 04:39:55 PM: INFO: Expecting FAIL
+10/22/2025 04:39:55 PM: INFO: **** Test PASSED for locked_out_user (Expected: Fail, error message shown) ****
+10/22/2025 04:39:55 PM: INFO: **** Starting test_login_data_driven for invalid_user ****
+10/22/2025 04:39:56 PM: INFO: Expecting FAIL
+10/22/2025 04:39:56 PM: INFO: **** Test PASSED for invalid_user (Expected: Fail, error message shown) ****
+10/22/2025 04:40:03 PM: INFO: **** Logged in for inventory tests ****
+10/22/2025 04:40:03 PM: INFO: **** Starting test_add_item_to_cart ****
+10/22/2025 04:40:03 PM: INFO: **** Add item to cart test passed ****
+10/22/2025 04:40:04 PM: INFO: **** Logged in for inventory tests ****
+10/22/2025 04:40:04 PM: INFO: **** Starting test_sort_products (Dropdown) ****
+10/22/2025 04:40:04 PM: INFO: **** Successfully selected from dropdown ****
+10/22/2025 04:40:09 PM: INFO: **** Starting Test_003_Checkout End-to-End Test ****
+10/22/2025 04:40:26 PM: INFO: **** End-to-End Checkout Test Passed ****
+10/22/2025 04:40:30 PM: INFO: **** Starting test_alerts ****
+10/22/2025 04:40:36 PM: INFO: **** test_alerts PASSED ****
+10/22/2025 04:40:36 PM: INFO: **** Starting test_window_handling ****
+10/22/2025 04:40:38 PM: INFO: **** test_window_handling PASSED ****
+10/22/2025 04:40:38 PM: INFO: **** Starting test_checkboxes_and_radio ****
+10/22/2025 04:44:30 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:44:33 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF6027AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:44:36 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:44:39 PM: INFO: **** Starting test_web_table ****
+10/22/2025 04:44:42 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:44:45 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608D8C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:44:49 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608D370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:44:56 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:45:00 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:45:04 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:45:08 PM: INFO: **** Starting test_mouse_hover ****
+10/22/2025 04:45:13 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608DD00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:45:17 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF61186B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:45:22 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF61189E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:45:32 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:45:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:45:42 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF6118380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:45:46 PM: INFO: **** Starting test_file_upload ****
+10/22/2025 04:45:50 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608D7B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:45:53 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF61196A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:45:57 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF61199D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:46:05 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:46:09 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:46:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:46:18 PM: INFO: **** Starting test_broken_links ****
+10/22/2025 04:46:22 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF6118C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:46:26 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF61186B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:46:31 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF6119040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/url
+10/22/2025 04:46:39 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:46:42 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF608E470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:46:46 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF6119590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37/screenshot
+10/22/2025 04:46:54 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF611A360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37
+10/22/2025 04:46:58 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF611A690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37
+10/22/2025 04:47:03 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BF611A9C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/710cc217f85cc2dd1754ae9e5bbcaa37
