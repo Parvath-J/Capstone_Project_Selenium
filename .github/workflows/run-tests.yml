@@ -38,7 +38,10 @@ jobs:
           # Navigate into the project folder first
           cd Capstone_Selenium_Pytest
           # Run pytest specifying edge
-          pytest -v --browser firefox --alluredir=allure-results
+          pytest -v --browser edge `
+            --alluredir=allure-results `
+            --html=reports/github_test_report.html `
+            --self-contained-html
         shell: pwsh
 
       # Step 5: Upload Allure results artifact
@@ -58,5 +61,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: html-test-report
-          path: Capstone_Selenium_Pytest/reports/test_report.html
+          path: Capstone_Selenium_Pytest/reports/github_test_report.html
           retention-days: 7
