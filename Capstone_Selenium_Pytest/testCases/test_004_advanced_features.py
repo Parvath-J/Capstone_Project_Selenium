@@ -156,6 +156,7 @@ class Test_004_AdvancedFeatures:
 
         # Perform the hover
         bp.move_to_element(hover_button)
+        time.sleep(1)
 
         # Assert the tooltip text is visible
         assert "You hovered over the Button" in bp.get_element_text(tooltip)
