@@ -32,7 +32,7 @@ jobs:
         # Use PowerShell, the default on Windows runners
         shell: pwsh
 
-      # Step 4: Run Pytest tests using Edge
+      # Step 4: Run Pytest tests using Firefox
       - name: Run Pytest with Edge
         run: |
           # Navigate into the project folder first

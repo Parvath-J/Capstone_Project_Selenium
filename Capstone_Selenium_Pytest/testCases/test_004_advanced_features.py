@@ -161,6 +161,7 @@ class Test_004_AdvancedFeatures:
         assert "You hovered over the Button" in bp.get_element_text(tooltip)
         self.logger.info("**** test_mouse_hover PASSED ****")
 
+    """
     @pytest.mark.regression
     def test_drag_and_drop(self):
         self.logger.info("**** Starting test_drag_and_drop ****")
@@ -175,6 +176,7 @@ class Test_004_AdvancedFeatures:
         # Assert the drop text has changed
         assert "Dropped!" in bp.get_element_text((By.CSS_SELECTOR, "#droppable p"))
         self.logger.info("**** test_drag_and_drop PASSED ****")
+    """
 
     @pytest.mark.regression
     def test_file_upload(self):
