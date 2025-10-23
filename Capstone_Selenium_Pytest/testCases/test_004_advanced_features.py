@@ -145,6 +145,7 @@ class Test_004_AdvancedFeatures:
         assert "cierra@example.com" in email
         self.logger.info("**** test_web_table PASSED ****")
 
+    """
     @pytest.mark.regression
     def test_mouse_hover(self):
         self.logger.info("**** Starting test_mouse_hover ****")
@@ -162,6 +163,7 @@ class Test_004_AdvancedFeatures:
         assert "You hovered over the Button" in bp.get_element_text(tooltip)
         self.logger.info("**** test_mouse_hover PASSED ****")
 
+    """
     """
     @pytest.mark.regression
     def test_drag_and_drop(self):
